@@ -1,6 +1,12 @@
 ![fun](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=%EB%85%B8%EB%8A%94%EA%B2%8C+%EC%A0%9C%EC%9D%BC+%EC%A2%8B%EC%95%84&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=41)<br><br>
 
-
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=doxoba&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/doxoba"
+  width="600"
+  height="300"
+/>
+</a>
 
 <img src="assets/banner.svg" width="100%" alt="MARY! 메리 · 운영 × AX 기획자 — 지금 파이썬 배우는 중">
 
